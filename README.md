@@ -7,7 +7,7 @@ Building production AI systems and finding access-control flaws in the software 
 &nbsp;
 
 <a href="https://github.com/nihalzlxr/archex"><img src="assets/work-01.svg" alt="Archex" width="100%"></a>
-<a href="https://github.com/nihalzlxr/fitness-engine"><img src="assets/work-02.svg" alt="Fitness engine" width="100%"></a>
+<a href="https://demokai.vercel.app/"><img src="assets/work-02.svg" alt="Kai" width="100%"></a>
 
 ---
 
