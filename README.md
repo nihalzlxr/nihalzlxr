@@ -16,7 +16,7 @@ Building production AI systems and finding access-control flaws in the software 
 
 **Applied AI engineering.** I design and ship LLM-backed products: agentic backend pipelines, retrieval and automation workflows, and the full-stack applications around them, built with Next.js and TypeScript.
 
-**Application security.** Independent researcher on Intigriti, HackerOne, YesWeHack and Bugcrowd, specializing in broken object-level authorization (BOLA/IDOR) and RBAC boundary failures. Validated findings include Cloudways and Paddle.
+**Application security.** Independent researcher on Intigriti, HackerOne, YesWeHack and Bugcrowd, specializing in broken object-level authorization (BOLA/IDOR) and RBAC boundary failures.
 
 ### Technical stack
 
