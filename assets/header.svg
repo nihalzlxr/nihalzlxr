@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Nihal Roshan K P, Applied AI Engineer and Application Security Researcher">
+  <style>
+    .f{fill:#000} .s{stroke:#000}
+    @media (prefers-color-scheme:dark){.f{fill:#fff}.s{stroke:#fff}}
+    .sans{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  </style>
+  <text class="f sans" x="0" y="96" font-size="64" font-weight="800" letter-spacing="-1">NIHAL ROSHAN K P</text>
+  <line class="s" x1="0" y1="126" x2="1200" y2="126" stroke-width="3"/>
+  <text class="f sans" x="0" y="168" font-size="24" font-weight="400">Applied AI Engineer</text>
+  <text class="f sans" x="0" y="200" font-size="24" font-weight="400">Application Security Researcher</text>
+  <text class="f mono" x="1200" y="168" font-size="14" text-anchor="end">KERALA, INDIA</text>
+  <text class="f mono" x="1200" y="200" font-size="14" text-anchor="end">LLM SYSTEMS / API AUTHORIZATION</text>
+</svg>

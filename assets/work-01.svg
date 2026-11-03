@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Archex: architecture ledger and CI gate for AI coding agents. Rust.">
+  <style>
+    .f{fill:#000} .s{stroke:#000}
+    @media (prefers-color-scheme:dark){.f{fill:#fff}.s{stroke:#fff}}
+    .sans{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  </style>
+  <line class="s" x1="0" y1="0.5" x2="1200" y2="0.5" stroke-width="1"/>
+  <text class="f mono" x="0" y="46" font-size="14">01</text>
+  <text class="f sans" x="72" y="46" font-size="28" font-weight="700">Archex</text>
+  <text class="f sans" x="72" y="74" font-size="15">Architecture ledger and CI gate for AI coding agents.</text>
+  <text class="f mono" x="1130" y="46" font-size="13" text-anchor="end">RUST / TREE-SITTER / MCP</text>
+  <path class="s" d="M1160 62 L1190 32 M1170 32 H1190 V52" fill="none" stroke-width="2"/>
+</svg>
